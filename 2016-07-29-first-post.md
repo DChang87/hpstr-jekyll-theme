@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -13,4 +13,3 @@ Hello World
 [Google][google]
 
 [google]: http://google.com
-
